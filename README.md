@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShirleyPraise
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to work remotely as an intern.
 - 📫 How to reach me pgbakara@gmail.com
 
